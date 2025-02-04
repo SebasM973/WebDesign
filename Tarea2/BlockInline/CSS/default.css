@@ -1,0 +1,14 @@
+.caja {
+    display: block;  /* Elemento de bloque */
+    width: 200px;
+    padding: 10px;
+    border: 2px solid blue;
+    margin: 20px;
+}
+
+.caja-en-linea {
+    display: inline;  /* Elemento en línea */
+    padding: 5px;
+    border: 1px dashed red;
+    margin: 5px;
+}
